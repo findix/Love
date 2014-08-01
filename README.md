@@ -8,7 +8,7 @@
 
 原作者当然是不会提供停止时间的功能的。所以当时就觉得还要来把网站停掉取消人人微博QQ的情侣状态很麻烦所以懒得分手（真贱- -）不过真到了这一步有些事还是要做的。权作祭奠吧。
 
-需要fork这个项目的朋友可以继续，直接使用master分支应该是没问题的，不过还是在这里说明我在gh-pages分支修改的内容。
+需要fork这个项目的朋友可以继续，在这里说明我在gh-pages分支修改的内容。
 
 index.html 16行：
 
@@ -18,4 +18,6 @@ index.html 16行：
 
     <script type="text/javascript" src="js/functions.js"></script>
 
-只是重写了functions.js。
+只要把`functions_end.js`改为`functions.js`即可。
+
+勿忘初心，方得始终。
